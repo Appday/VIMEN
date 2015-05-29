@@ -5,7 +5,11 @@ android {
     buildToolsVersion '22.0.1'
 
     defaultConfig {
+<<<<<<< HEAD
         applicationId "com.example.administrator.vimen"
+=======
+        applicationId "com.example.ole.vimen"
+>>>>>>> 92f3422c154498674daf7b824a2d832157f72beb
         minSdkVersion 21
         targetSdkVersion 22
         versionCode 1
@@ -20,5 +24,10 @@ android {
 }
 
 dependencies {
+<<<<<<< HEAD
     compile fileTree(dir: 'libs', include: ['*.jar'])
+=======
+    compile 'com.google.android.gms:play-services:7.5.0'
+    compile 'com.android.support:appcompat-v7:22.2.0'
+>>>>>>> 92f3422c154498674daf7b824a2d832157f72beb
 }

@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/ViMEN.iml" filepath="$PROJECT_DIR$/ViMEN.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/VIMEN.iml" filepath="$PROJECT_DIR$/VIMEN.iml" />
+>>>>>>> 92f3422c154498674daf7b824a2d832157f72beb
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
